@@ -21,7 +21,7 @@
 
 安装包发布在 [Releases](https://github.com/HifumiDaisuki01/WPS-EducationEdition/releases) 页面：
 
-- **2023 年版**：`教育专用版-WPS Office.exe`（较小）
+- **2023 年版**：`-WPS.Office.exe`（较小）
 - **2025 年版**：`WPS365Edu_office_12.1.0.20305_30.12013.exe`（较大）
 - 适用平台：Windows
 
